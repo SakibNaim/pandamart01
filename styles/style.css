@@ -188,3 +188,32 @@ nav{
 
 }
 
+.contact-us{
+    background-color: #FFF2F1;
+    height: 355px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 120px ;
+}
+
+.ft >input{
+    width: 600px;
+    height: 73px;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.btn-l{
+    background-image: linear-gradient(to top right ,#FF589B,#FF136F);
+    border: none;
+    color: white;
+    width: 157px;
+    height: 70px;
+    font-size: 22px;
+    padding-left: -100px;
+    border-bottom-right-radius: 10px;
+   border-top-right-radius: 10px;
+
+}
+
